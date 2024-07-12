@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+}
+.travel{
+    padding-top: 20px;
+    text-align: center;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+}
+
+.login{
+    padding-left: 5cm;
+    padding-top: 3cm;
+}
+form{
+    padding-top: 20px;
+    padding-left:30px ;
+}
+input{
+    padding: 6%;
+    border-radius: 10px;
+    width: 100%;
+}   
+h6{
+   padding-left: 160px;
+   color: grey;
+}
+h5{
+    color: grey;
+}
+button{
+    margin-top: 30px;
+    margin-left: 2.5cm;
+    padding: 3%;
+    width: 100px;
+    color: white;
+    background-color: rgb(56, 123, 185);
+}
+.logo{
+    width: 2px;
+    height: 2px;
+    display: flex;
+    flex-direction: row;
+    
+}
